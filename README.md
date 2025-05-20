@@ -44,12 +44,8 @@ Os comandos estão separados em arquivos `.md` por tema ou ferramenta, por exemp
 ```bash
 📁 comandos-terminal/
 ├── curl.md
-├── redes.md
-├── arquivos.md
-├── ssh.md
-├── git.md
-├── sistema.md
-└── outros.md
+     ├── help.md
+     ├── help_all.md
 ```
 
 ---
