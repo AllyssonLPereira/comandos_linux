@@ -24,7 +24,6 @@ A ideia é centralizar em um único lugar:
 - 📁 `cp`, `mv`, `rm`, `find`: manipulação de arquivos e diretórios
 - 🌐 `ping`, `traceroute`, `dig`, `nslookup`: comandos de rede
 - 🔒 `ssh`, `scp`, `sftp`: conexões e transferências seguras
-- 🐧 Comandos básicos de Linux
 - 🧪 Exemplos de comandos compostos e com pipes (`|`, `&&`, `||`)
 - E muito mais!
 
